@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PraveenBalajiP/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PraveenBalajiP/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PraveenBalajiP/LeetCode/tree/master/0118-pascals-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PraveenBalajiP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PraveenBalajiP/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/PraveenBalajiP/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PraveenBalajiP/LeetCode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PraveenBalajiP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/PraveenBalajiP/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PraveenBalajiP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/PraveenBalajiP/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
