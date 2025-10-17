@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/PraveenBalajiP/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,8 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/PraveenBalajiP/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PraveenBalajiP/LeetCode/tree/master/0011-container-with-most-water) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/PraveenBalajiP/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
