@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PraveenBalajiP/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PraveenBalajiP/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/PraveenBalajiP/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/PraveenBalajiP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PraveenBalajiP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/PraveenBalajiP/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/PraveenBalajiP/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PraveenBalajiP/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/PraveenBalajiP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/PraveenBalajiP/LeetCode/tree/master/0118-pascals-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PraveenBalajiP/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Binary Search
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PraveenBalajiP/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PraveenBalajiP/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
