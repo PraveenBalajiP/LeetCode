@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PraveenBalajiP/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PraveenBalajiP/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PraveenBalajiP/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PraveenBalajiP/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PraveenBalajiP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/PraveenBalajiP/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/PraveenBalajiP/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PraveenBalajiP/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/PraveenBalajiP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/PraveenBalajiP/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PraveenBalajiP/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PraveenBalajiP/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Binary Search
 |  |
