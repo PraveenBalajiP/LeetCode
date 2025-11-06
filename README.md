@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PraveenBalajiP/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/PraveenBalajiP/LeetCode/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PraveenBalajiP/LeetCode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/PraveenBalajiP/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
