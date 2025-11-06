@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/PraveenBalajiP/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PraveenBalajiP/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PraveenBalajiP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/PraveenBalajiP/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PraveenBalajiP/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/PraveenBalajiP/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PraveenBalajiP/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PraveenBalajiP/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PraveenBalajiP/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/PraveenBalajiP/LeetCode/tree/master/0217-contains-duplicate) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2169-simple-bank-system](https://github.com/PraveenBalajiP/LeetCode/tree/master/2169-simple-bank-system) |
 ## Linked List
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PraveenBalajiP/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PraveenBalajiP/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PraveenBalajiP/LeetCode/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/PraveenBalajiP/LeetCode/tree/master/0217-contains-duplicate) |
 ## String Matching
 |  |
 | ------- |
