@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/PraveenBalajiP/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2169-simple-bank-system](https://github.com/PraveenBalajiP/LeetCode/tree/master/2169-simple-bank-system) |
 ## Simulation
 |  |
@@ -222,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/PraveenBalajiP/LeetCode/tree/master/0190-reverse-bits) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/PraveenBalajiP/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/PraveenBalajiP/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
