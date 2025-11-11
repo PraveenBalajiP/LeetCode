@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/PraveenBalajiP/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PraveenBalajiP/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PraveenBalajiP/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -184,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/PraveenBalajiP/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PraveenBalajiP/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/PraveenBalajiP/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PraveenBalajiP/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PraveenBalajiP/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Greedy
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/PraveenBalajiP/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/PraveenBalajiP/LeetCode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
