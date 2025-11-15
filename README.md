@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PraveenBalajiP/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/PraveenBalajiP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PraveenBalajiP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/PraveenBalajiP/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/PraveenBalajiP/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PraveenBalajiP/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/PraveenBalajiP/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PraveenBalajiP/LeetCode/tree/master/0258-add-digits) |
 | [2169-simple-bank-system](https://github.com/PraveenBalajiP/LeetCode/tree/master/2169-simple-bank-system) |
 ## Prefix Sum
 |  |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/PraveenBalajiP/LeetCode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PraveenBalajiP/LeetCode/tree/master/0404-sum-of-left-leaves) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PraveenBalajiP/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
