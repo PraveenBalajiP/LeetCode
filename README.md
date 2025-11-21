@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/PraveenBalajiP/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/PraveenBalajiP/LeetCode/tree/master/0217-contains-duplicate) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/PraveenBalajiP/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/PraveenBalajiP/LeetCode/tree/master/2169-simple-bank-system) |
 ## Linked List
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PraveenBalajiP/LeetCode/tree/master/0344-reverse-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PraveenBalajiP/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/PraveenBalajiP/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/PraveenBalajiP/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/PraveenBalajiP/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Two Pointers
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PraveenBalajiP/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/PraveenBalajiP/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/PraveenBalajiP/LeetCode/tree/master/0190-reverse-bits) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/PraveenBalajiP/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Queue
 |  |
 | ------- |
