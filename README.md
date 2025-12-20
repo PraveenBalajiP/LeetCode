@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PraveenBalajiP/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PraveenBalajiP/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2058-concatenation-of-array](https://github.com/PraveenBalajiP/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/PraveenBalajiP/LeetCode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/PraveenBalajiP/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/PraveenBalajiP/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/PraveenBalajiP/LeetCode/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/PraveenBalajiP/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/PraveenBalajiP/LeetCode/tree/master/2169-simple-bank-system) |
 ## Prefix Sum
 |  |
