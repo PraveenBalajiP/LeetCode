@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PraveenBalajiP/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/PraveenBalajiP/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/PraveenBalajiP/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2651-calculate-delayed-arrival-time](https://github.com/PraveenBalajiP/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 ## Recursion
 |  |
 | ------- |
