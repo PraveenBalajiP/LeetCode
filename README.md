@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/PraveenBalajiP/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PraveenBalajiP/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1390-four-divisors](https://github.com/PraveenBalajiP/LeetCode/tree/master/1390-four-divisors) |
 | [1580-shuffle-the-array](https://github.com/PraveenBalajiP/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PraveenBalajiP/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2058-concatenation-of-array](https://github.com/PraveenBalajiP/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PraveenBalajiP/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PraveenBalajiP/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/PraveenBalajiP/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [1390-four-divisors](https://github.com/PraveenBalajiP/LeetCode/tree/master/1390-four-divisors) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/PraveenBalajiP/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2651-calculate-delayed-arrival-time](https://github.com/PraveenBalajiP/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 ## Recursion
