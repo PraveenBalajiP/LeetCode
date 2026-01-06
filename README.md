@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PraveenBalajiP/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/PraveenBalajiP/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/PraveenBalajiP/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PraveenBalajiP/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1580-shuffle-the-array](https://github.com/PraveenBalajiP/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PraveenBalajiP/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/PraveenBalajiP/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/PraveenBalajiP/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PraveenBalajiP/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PraveenBalajiP/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/PraveenBalajiP/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PraveenBalajiP/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/PraveenBalajiP/LeetCode/tree/master/2169-simple-bank-system) |
