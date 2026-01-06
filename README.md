@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/PraveenBalajiP/LeetCode/tree/master/1390-four-divisors) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/PraveenBalajiP/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2651-calculate-delayed-arrival-time](https://github.com/PraveenBalajiP/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/PraveenBalajiP/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/PraveenBalajiP/LeetCode/tree/master/0190-reverse-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PraveenBalajiP/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/PraveenBalajiP/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
 | ------- |
